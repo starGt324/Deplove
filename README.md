@@ -12,4 +12,7 @@ If you have a question or comment, please contact us on the website.</b>
 <p><strong>Special thanks to the AH DIGITAL AUTOMATION team for hosting and sponsoring the project.
 Visit https://ahdigital.tech/</strong></p>
 
-
+<section>
+  <h4>Change log💥</h4>
+ -25/25/25:add new section page <mark>books page.</mark>
+</section>
