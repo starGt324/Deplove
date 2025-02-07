@@ -14,5 +14,7 @@ Visit https://ahdigital.tech/</strong></p>
 
 <section>
   <h4>Change log💥</h4>
- -25/25/25:add new section page <mark>books page.</mark>
+ -1/25/25:add new section page <mark>books page.</mark>
+ <br>
+ -2/8/25:<mark>Added a new book to the library, fixed some link issues, added a new version of Debian with an xsfc interface.</mark>
 </section>
